@@ -13,7 +13,7 @@ I am CIA agent
 
 - 🔭 I am currently working for o7
 - 🌱 I am relearning python
-- 💬 Thinking about Jerusalem 
+- 💬 Thinking about Jerusalem (Bombing it, mostly)
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
@@ -25,6 +25,6 @@ I am CIA agent
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow01148&theme=blue-green"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow01148&theme=blue-green">
 </div>
 <br>
